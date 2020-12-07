@@ -1,2 +1,2 @@
-# ML
-Using ML,estimating the dollar price in python
+
+Using Machine Learning,estimating the current exchange rate in python
